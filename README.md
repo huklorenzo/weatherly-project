@@ -20,4 +20,6 @@
 ## 📷 Screenshots
 
 ### 🌦️ Weather Forecast Example
-![Weatherly Screenshot](screenshots/Screenshots.png)(screenshots/Screenshots2.png)(screenshots/Screenshots3.png)
+![Weatherly Screenshot](screenshots/Screenshots.png)
+![Weatherly Screenshot 2](screenshots/Screenshots2.png)
+![Weatherly Screenshot 3](screenshots/Screenshots3.png)
