@@ -17,4 +17,7 @@
 - 📱 Fully responsive layout
 
 ---
+## 📷 Screenshots
 
+### 🌦️ Weather Forecast Example
+![Weatherly Screenshot](screenshots/Screenshots.png)(screenshots/Screenshots2.png)(screenshots/Screenshots3.png)
